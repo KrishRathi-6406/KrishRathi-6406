@@ -14,11 +14,37 @@
 
 Hello everyone! I'm **Krish Rathi**, a **CSE undergraduate at SRMIST, Chennai**, pursuing Computer Science & Engineering with a strong passion for **full-stack web development**. I focus on building interactive, performance-optimized interfaces and responsive web applications.
 
-🎾 **Beyond the code:** I play tennis, basketball & chess, curate calming music playlists that set the mood for deep work, and run on coffee — my fuel for exploring new ideas and sparking creativity.
-
-I'm committed to writing clean, maintainable code and designing interfaces that balance functionality with user experience. Driven by curiosity and a strong learning mindset, I actively seek opportunities to build impactful solutions and grow as an engineer. Always learning, always building, always taking on new challenges.
-
 **Open to front-end and full-stack opportunities** where I can grow as an engineer and contribute to meaningful products.
+
+<table>
+  <tr>
+    <td width="25%"><b>👤 Who I Am</b></td>
+    <td>Full-stack developer focused on web technologies — comfortable from writing Java & C at the core to crafting React UIs and Node.js APIs.</td>
+  </tr>
+  <tr>
+    <td><b>🔭 What I'm Working On</b></td>
+    <td>Building full-stack web applications with <b>React.js + Node.js</b>, and a multi-agent system for financial reconciliation in Python.</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools I Use</b></td>
+    <td><b>TypeScript · JavaScript · Python · SQL</b> — with <b>Git, GitHub, Vercel & Render</b> powering my workflow, version control, and deployments.</td>
+  </tr>
+  <tr>
+    <td><b>📫 How to Reach Me</b></td>
+    <td>Best reached via <b>email</b> or <b>LinkedIn</b> — links are in the <a href="#-how-to-reach-me">How to Reach Me</a> section below.</td>
+  </tr>
+</table>
+
+<br/>
+
+- 🔭 **Currently working on:** Full-stack web applications and personal projects
+- 🌱 **Currently learning:** Advanced DSA, Java, TypeScript, backend development & system design
+- 💻 **Focus:** Full-Stack Development • UI/UX • Responsive Web Design • DSA
+- 🚀 **Goal:** Build impactful products and continuously grow as a software engineer
+- 🤝 **Open to:** Collaboration, interesting projects, and learning opportunities
+- ⚡ **Fun fact:** I enjoy tennis, basketball, chess, music, and a good cup of coffee ☕
+
+<br/>
 
 <br/>
 
@@ -116,6 +142,14 @@ I'm committed to writing clean, maintainable code and designing interfaces that 
 > 👉 Explore all my repositories: [github.com/KrishRathi-6406](https://github.com/KrishRathi-6406)
 
 <br/>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishRathi-6406/KrishRathi-6406/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishRathi-6406/KrishRathi-6406/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/KrishRathi-6406/KrishRathi-6406/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
